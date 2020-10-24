@@ -75,3 +75,12 @@ body {
         opacity: 1; 
     }
 }
+
+.pageNum {
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    font-size: 35px;
+}
